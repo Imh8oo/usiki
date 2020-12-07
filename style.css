@@ -15,8 +15,8 @@ body {
   border: 13px solid #fffeff;
   box-sizing: border-box;
   overflow: hidden;
-  width: 500px;
-  height: 500px;
+  width: 300px;
+  height: 300px;
   background-image: url('./usiki.JPG');
   background-size: cover;
   background-repeat: no-repeat;
@@ -25,10 +25,10 @@ body {
 .subscribe-btn {
   border-radius: 50%;
   background-color: #ff2c54;
-  width: 212px;
-  height: 212px;
+  width: 127px;
+  height: 127px;
   position: absolute;
-  bottom: -106px;
+  bottom: -63px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -43,18 +43,18 @@ body {
 
 .plus {
   background-color: #fffeff;
-  width: 93px;
-  height: 23px;
-  border-radius: 15px;
+  width: 56px;
+  height: 14px;
+  border-radius: 10px;
   transform: rotate(0deg);
   transition: transform .5s ease;
 }
 
 .plus-after {
   background-color: #fffeff;
-  height: 93px;
-  width: 23px;
-  border-radius: 15px;
+  height: 56px;
+  width: 14px;
+  border-radius: 10px;
   position: absolute;
 }
 
@@ -95,9 +95,9 @@ body {
 
 .check {
   background-color: #ff2c54;
-  border-radius: 15px;
-  height: 96px;
-  width: 21px;
+  border-radius: 10px;
+  height: 57px;
+  width: 12px;
   position: absolute;
   transform: rotate(0deg);
   transform-origin: 50% 70%;
@@ -106,9 +106,9 @@ body {
 
 .check-after {
   background-color:  #ff2c54;
-  border-radius: 15px;
-  height: 62px;
-  width: 21px;
+  border-radius: 10px;
+  height: 37px;
+  width: 12px;
   position: absolute;
   transform: rotate(0deg);
   transform-origin: 50% 130%;
